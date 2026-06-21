@@ -1,4 +1,4 @@
-# Day 1 - Password Protected Calculator
+# PROJECT 1 - Password Protected Calculator
 
 A Python calculator with user authentication and basic arithmetic operations.
 
